@@ -15,7 +15,11 @@
 
  <!--START_SECTION:waka-->
 
-
+```txt
+React        16 hrs 4 mins   ███████████████████▓░░░░░   79.31 %
+NodeJs       3 hrs 8 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.50 %
+Other        25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+```
 
 <!--END_SECTION:waka-->
 
