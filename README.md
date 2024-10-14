@@ -18,31 +18,32 @@
 <a href="https://www.leetcode.com/ghanshyam_patidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ghanshyam_patidar" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Techniacal Stacks:</h3>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-</div>
+ <!--START_SECTION:waka-->
 
-<p style="margin:20vw 0 0 0;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanshyam&" alt="hanshyam" /></p>
+```txt
+Svelte        16 hrs 4 mins   ███████████████████▓░░░░░   79.31 %
+TypeScript    3 hrs 8 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.50 %
+Bash          31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Other         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+SCSS          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+```
+
+<!--END_SECTION:waka-->
+
+  <p align="start">
+   
+<img src="https://skillicons.dev/icons?i=cpp,html,css,js,mongodb,git,github,react,express,nodejs,nextjs,vscode,postman,powershell,&theme=dark&perline=10" />
+</a>
+</p>
+
+
+
+## 📊 GitHub Stats:
+
+ <div align="center">
+
+ <!-- github streak start -->
+
+<img width=320 src="https://github-readme-streak-stats.herokuapp.com/?user=hanshyam&layout=compact" alt="hanshyam" />
+
+<!-- github streak end -->
