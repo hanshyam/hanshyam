@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanshyam&label=Profile%20views&color=0e75b6&style=flat" alt="hanshyam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanshyam" alt="hanshyam" /></a> </p>
 
 - 🌱 I’m currently learning **Mern Stack**
 
@@ -19,6 +18,7 @@
 <a href="https://www.leetcode.com/ghanshyam_patidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ghanshyam_patidar" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Techniacal Stacks:</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
