@@ -45,4 +45,4 @@
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
 </div>
 
-<p style="margin:20px 0 0 0;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanshyam&" alt="hanshyam" /></p>
+<p style="margin:20vw 0 0 0;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanshyam&" alt="hanshyam" /></p>
