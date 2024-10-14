@@ -12,21 +12,10 @@
 
 - 📫 How to reach me **ghanshyampatidar3011@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ghanshyam-patidar-6714a1256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghanshyam-patidar-6714a1256" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ghanshyam_patidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ghanshyam_patidar" height="30" width="40" /></a>
-</p>
 
  <!--START_SECTION:waka-->
 
-```txt
-Svelte        16 hrs 4 mins   ███████████████████▓░░░░░   79.31 %
-TypeScript    3 hrs 8 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.50 %
-Bash          31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-Other         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-SCSS          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-```
+
 
 <!--END_SECTION:waka-->
 
